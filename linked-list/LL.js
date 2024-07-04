@@ -176,3 +176,5 @@ ll.append(1);
 ll.append(5);
 ll.append(3);
 ll.toString();
+
+export default LinkedList;
